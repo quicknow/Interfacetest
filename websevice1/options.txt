@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IE:\Lr_scripts\websevice1
+-IC:\Program Files (x86)\HP\LoadRunner\include
+-ee:\lr_scripts\websevice1\\logfile.log
+e:\lr_scripts\websevice1\\combined_websevice1.c
+e:\lr_scripts\websevice1\\pre_cci.c

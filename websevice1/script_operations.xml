@@ -1,0 +1,2 @@
+<?xml version="1.0"?>
+<Services><Service name="DomesticAirline"><Port name="DomesticAirlineSoap"><Operation>getDomesticCity</Operation><Operation>getDomesticAirlinesTime</Operation></Port></Service></Services>
